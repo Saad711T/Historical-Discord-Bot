@@ -1,7 +1,7 @@
 # Discord Nations Bot
 Bot using for publishing historical nations flag and simple description about it every 12 hours.
 
-[Simple Banner](https://www.historicpictoric.com/cdn/shop/files/558645_D5005_1915000__Pieces_Connected__SBedit__Final_1600.jpg?v=1697649346&width=1080)
+[Simple Banner](simplebanner.png)
 
 ## Project Structure
 - `requirements.txt` : The Requirements python libraries , to get cloned use this command in your shell : `pip install requirements.txt`
