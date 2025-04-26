@@ -1,0 +1,68 @@
+[
+    {
+        "name": "الدولة العثمانية",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg/1280px-Flag_of_the_Ottoman_Empire_%281844%E2%80%931922%29.svg.png",
+        "description": "الدولة العثمانية دولة منسوبة لعثمان بن أرطغرل قائد أحد دويلات الأناضول التي نتجت بعد تفكك سلاجقة الروم وبدأ تأسيسها عام 1299 م , وأنتصرت على الإمبراطورية البيزنطية في 1453 م وشاركت في عدة حروب وصراعات وأبرزها الحرب العالمية الأولى التي أدت إلى تفككها عام 1922 م."
+    },
+    {
+        "name": "الإمبراطورية البيزنطية",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Byzantine_imperial_flag%2C_14th_century%2C_square.svg/2048px-Byzantine_imperial_flag%2C_14th_century%2C_square.svg.png",
+        "description": "الإمبراطورية البيزنطية أو الإمبراطورية الرومانية الشرقية , هي الشق الشرقي من الإمبراطورية الرومانية والتي نتجت بعد تقسيمها لجزئين وإعلان بيزنطة عاصمة لها عام 330 م من قبل قسطنطين , هزمت الإمبراطورية في حروب عدة ضد الفرس والخلافة الراشدة والأمويين والسلاجقة والبلغار والهون وغيرهم وسقطت على أيدي العثمانيين عام 1453 م."
+    },
+    {
+        "name": "الإمبراطورية الرومانية",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Roman_Empire.svg/2048px-Flag_of_the_Roman_Empire.svg.png",
+        "description": "الإمبراطورية الرومانية هي واحدة من أعظم الإمبراطوريات في التاريخ، وقد تأسست في عام 27 قبل الميلاد واستمرت حتى عام 476 ميلادي. كانت تمتد عبر ثلاث قارات: أوروبا وآسيا وأفريقيا، وشملت مناطق واسعة من البحر الأبيض المتوسط. اشتهرت الإمبراطورية بقوانينها وهندستها المعمارية وثقافتها."
+    },
+    {
+        "name": "الإمبراطورية الفارسية",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Flag_of_the_Achaemenid_Empire.svg/2048px-Flag_of_the_Achaemenid_Empire.svg.png",
+        "description": "الإمبراطورية الفارسية هي واحدة من أقدم وأكبر الإمبراطوريات في التاريخ، وقد تأسست في القرن السادس قبل الميلاد. اشتهرت بتنوعها الثقافي واللغوي، وكانت تضم شعوبًا متعددة. كانت عاصمتها في البداية في سوسة ثم في برسيبوليس."
+    },
+    {
+        "name": "الإمبراطورية المغولية",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Mongol_Empire.svg/2048px-Flag_of_the_Mongol_Empire.svg.png",
+        "description": "الإمبراطورية المغولية هي واحدة من أكبر الإمبراطوريات في التاريخ، وقد تأسست في القرن الثالث عشر على يد جنكيز خان. امتدت عبر أجزاء كبيرة من آسيا وأوروبا، وكانت معروفة بقوتها العسكرية وتنوع ثقافاتها."
+    },
+    {
+        "name": "الإمبراطورية المغولية",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Flag_of_the_Mongol_Empire.svg/2048px-Flag_of_the_Mongol_Empire.svg.png",
+        "description": "الإمبراطورية المغولية هي واحدة من أكبر الإمبراطوريات في التاريخ، وقد تأسست في القرن الثالث عشر على يد جنكيز خان. امتدت عبر أجزاء كبيرة من آسيا وأوروبا، وكانت معروفة بقوتها العسكرية وتنوع ثقافاتها."
+    },
+    {
+        "name": "الإمبراطورية البريطانية",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Flag_of_the_United_Kingdom.svg/2048px-Flag_of_the_United_Kingdom.svg.png",
+        "description": "الإمبراطورية البريطانية كانت واحدة من أكبر الإمبراطوريات في التاريخ، وقد امتدت عبر قارات متعددة. اشتهرت بتأثيرها الثقافي والسياسي والاقتصادي على العالم، وكانت تعرف بأنها \"الإمبراطورية التي لا تغيب عنها الشمس\"."
+    },
+    {
+        "name": "الإمبراطورية الروسية",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Flag_of_the_Russian_Empire.svg/2048px-Flag_of_the_Russian_Empire.svg.png",
+        "description": "الإمبراطورية الروسية كانت واحدة من أكبر الإمبراطوريات في التاريخ، وقد تأسست في القرن السابع عشر واستمرت حتى عام 1917. كانت تمتد عبر أجزاء كبيرة من أوروبا وآسيا، وكانت معروفة بتنوعها الثقافي واللغوي."
+    },
+    {
+        "name": "الإمبراطورية الإسبانية",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Flag_of_Spain.svg/2048px-Flag_of_Spain.svg.png",
+        "description": "الإمبراطورية الإسبانية كانت واحدة من أكبر الإمبراطوريات في التاريخ، وقد امتدت عبر قارات متعددة. اشتهرت بتأثيرها الثقافي والسياسي والاقتصادي على العالم، وكانت تعرف بأنها \"الإمبراطورية التي لا تغيب عنها الشمس\"."
+    },
+    {
+        "name": "الإمبراطورية الفرنسية",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Flag_of_France.svg/2048px-Flag_of_France.svg.png",
+        "description": "الإمبراطورية الفرنسية كانت واحدة من أكبر الإمبراطوريات في التاريخ، وقد امتدت عبر قارات متعددة. اشتهرت بتأثيرها الثقافي والسياسي والاقتصادي على العالم، وكانت تعرف بأنها \"الإمبراطورية التي لا تغيب عنها الشمس\"."
+    },
+    {
+        "name": "الدولة السعودية الأولى",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_First_Saudi_State.svg/2048px-Flag_of_the_First_Saudi_State.svg.png",
+        "description": "الدولة السعودية الأولى هي دولة أسسها محمد بن سعود في عام 1744، وقد استمرت حتى عام 1818. كانت تهدف إلى توحيد القبائل العربية تحت راية واحدة، وقد واجهت تحديات كبيرة من القوى الإقليمية والدولية."
+    },
+    {
+        "name": "الدولة السعودية الثانية",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Flag_of_the_Second_Saudi_State.svg/2048px-Flag_of_the_Second_Saudi_State.svg.png",
+        "description": "الدولة السعودية الثانية هي دولة أسسها الإمام تركي بن عبد الله في عام 1824، وقد استمرت حتى عام 1891. كانت تهدف إلى توحيد القبائل العربية تحت راية واحدة، وقد واجهت تحديات كبيرة من القوى الإقليمية والدولية."
+    },
+    {
+        "name": "المملكة العربية السعودية",
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Flag_of_Saudi_Arabia.svg/2048px-Flag_of_Saudi_Arabia.svg.png",
+        "description": "المملكة العربية السعودية هي دولة تقع في شبه الجزيرة العربية، وقد تأسست في عام 1932 على يد الملك عبد العزيز آل سعود. تعتبر المملكة مركزًا للإسلام، حيث تضم الحرمين الشريفين."
+    }
+
+]
